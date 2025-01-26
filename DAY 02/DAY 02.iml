@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/BankAccount" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/Book" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/Book2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/Book3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/CarRental" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/Circle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/Course" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/Employee" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/HotelBooking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/Person" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/Product" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/Student" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LEVEL 1/Vehicle" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
